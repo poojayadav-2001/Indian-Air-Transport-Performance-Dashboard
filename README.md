@@ -88,9 +88,12 @@ The Indian aviation sector demonstrates resilience and structured recovery, with
 
 ---
 
-<h2><a class="anchor" id="author"></a>Author</a></h2>
+## 👤 Author
+* **Name:** Pooja Yadav  
+* **Role:** Data Analyst / Business Analyst  
 
-**Pooja Yadav**  
-Aspiring Data Analyst | Power BI Developer  
-GitHub: https://github.com/poojayadav-2001
+## 📩 Contact
+* **LinkedIn:** [www.linkedin.com/in/pooja-yadav-59440a296]
+* **Email:** [pooja7821yadav@gmail.com]
+* **GitHub:** [https://github.com/poojayadav-2001/Indian-Air-Transport-Performance-Dashboard.git]
 
